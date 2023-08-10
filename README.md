@@ -17,7 +17,7 @@ Displays the generated password directly on the web page.
 ## Usage
 Open the application in your web browser.
 
-Click the "Generate" button to initiate the password generation process.
+Click the "Generate" button to start the password generation process.
 
 ## Follow the prompts:
 
@@ -30,7 +30,7 @@ No License to this Web Application
 
 ## Link to Web Application
 
-
+https://hsolojr.github.io/Password-Gen/ 
 
 ## Screenshot
 
