@@ -1,6 +1,6 @@
 # Password-Gen
 Secure Password Generator
-This is a simple web application that generates secure passwords based on user-defined criteria. The application allows users to specify the length of the password and select which character types (lowercase, uppercase, numeric, and special characters) to include in the generated password. The generated password is then displayed on the page.
+This is a pretty simple web application that will generate a secure password based off of user criteria. For example, the application allows the users to specify the length of the password and select which character types (lowercase, uppercase, numeric, and special characters) to include in the generated password. The generated password is then displayed on the web page after all the criteria is met.
 
 ## Table of Contents
 Features
@@ -8,16 +8,11 @@ Getting Started
 Usage
 
 ## Features
-Generates secure passwords that match user-defined criteria.
-Supports selecting password length between 8 and 128 characters.
+Generates secure passwords that matches user criteria.
+Supports password length anywhere between 8 and 128 characters.
 Allows users to choose character types to include in the password.
 Ensures at least one character type is selected for a valid password.
 Displays the generated password directly on the web page.
-Getting Started
-To run this application locally, follow these steps:
-
-Clone this repository to your local machine.
-
 
 ## Usage
 Open the application in your web browser.
@@ -37,3 +32,5 @@ No License to this Web Application
 
 
 ## Screenshot
+
+<img width="1432" alt="Screen Shot 2023-08-10 at 9 48 48 AM" src="https://github.com/Hsolojr/Password-Gen/assets/139496108/bf3c41f5-2b76-4de7-baf6-2dad0cbe34cb"> 
