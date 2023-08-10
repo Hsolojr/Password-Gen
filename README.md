@@ -33,4 +33,4 @@ No License to this Web Application
 
 ## Screenshot
 
-<img width="1432" alt="Screen Shot 2023-08-10 at 9 48 48 AM" src="https://github.com/Hsolojr/Password-Gen/assets/139496108/bf3c41f5-2b76-4de7-baf6-2dad0cbe34cb"> 
+<img width="1432" alt="Screen Shot 2023-08-10 at 9 48 48 AM" src="https://github.com/Hsolojr/Password-Gen/assets/139496108/bf3c41f5-2b76-4de7-baf6-2dad0cbe34cb">  
